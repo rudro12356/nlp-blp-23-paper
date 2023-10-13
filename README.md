@@ -22,9 +22,11 @@ BanglaBERT model to achieve an average accu-
 racy of 60% for various phonemic classification
 and artist identification from the lyrics.
 
-Word cloud - ![image](https://github.com/rudro12356/nlp-blp-23-paper/assets/61032181/fa9bf583-0381-4a46-8123-eeabb85eee00)
+## Word cloud
 
-Zif's Law - ![image](https://github.com/rudro12356/nlp-blp-23-paper/assets/61032181/291f4459-e663-46d9-b94e-c153a7a99f18)
+![image](https://github.com/rudro12356/nlp-blp-23-paper/assets/61032181/fa9bf583-0381-4a46-8123-eeabb85eee00)
+
+## Zipf's Law - ![image](https://github.com/rudro12356/nlp-blp-23-paper/assets/61032181/291f4459-e663-46d9-b94e-c153a7a99f18)
 
 
 
