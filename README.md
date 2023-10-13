@@ -26,7 +26,17 @@ and artist identification from the lyrics.
 
 ![image](https://github.com/rudro12356/nlp-blp-23-paper/assets/61032181/fa9bf583-0381-4a46-8123-eeabb85eee00)
 
-## Zipf's Law - ![image](https://github.com/rudro12356/nlp-blp-23-paper/assets/61032181/291f4459-e663-46d9-b94e-c153a7a99f18)
+## Zipf's Law
+
+![image](https://github.com/rudro12356/nlp-blp-23-paper/assets/61032181/291f4459-e663-46d9-b94e-c153a7a99f18)
+
+## Heatmap
+
+![image](https://github.com/rudro12356/nlp-blp-23-paper/assets/61032181/9dd8e176-dc2e-4c98-a530-854013e3836a)
+
+## KMEANS cluster
+
+![image](https://github.com/rudro12356/nlp-blp-23-paper/assets/61032181/c5f93863-c228-4a23-a075-e193c1d43f34)
 
 
 
